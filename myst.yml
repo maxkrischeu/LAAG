@@ -2,7 +2,8 @@
 version: 1
 project:
   id: bfef3fdd-d24c-4ccc-b70b-2080109c2fd6
-  jupyter: true
+  jupyter:
+    lite: true
   # title:
   # description:
   # keywords: []
